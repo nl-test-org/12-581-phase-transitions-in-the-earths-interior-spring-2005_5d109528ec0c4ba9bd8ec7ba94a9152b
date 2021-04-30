@@ -1,0 +1,28 @@
+---
+course_id: 12-581-phase-transitions-in-the-earths-interior-spring-2005
+layout: course_section
+menu:
+  leftnav:
+    identifier: ae9bea3ac7a06f9c09375e7810fb9c81
+    name: Assignments
+    weight: 40
+title: Assignments
+type: course
+uid: ae9bea3ac7a06f9c09375e7810fb9c81
+
+---
+
+| WEEK # | STUDENT PRESENTATIONS |
+| --- | --- |
+|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Phase Transitions in the Earth's Mantle and Mantle Mineralogy ([PDF]({{< baseurl >}}/sections/assignments/p_fei_1999_rekhi)) (Courtesy of Sandeep Rekhi. Used with permission.) {{< br >}}{{< br >}} Topography of the Transition Zone Seismic Discontinuities {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Iron Partitioning in a Pyrolite Mantle and the Nature of the 410-km Seismic Discontinuity ([PDF]({{< baseurl >}}/sections/assignments/p_irif_1998_sant)) (Courtesy of Javier Santillan. Used with permission.) {{< br >}}{{< br >}} The Effect of H2O on the 410-kilometer Seismic Discontinuity ([PDF]({{< baseurl >}}/sections/assignments/yao_1)) (Courtesy of Huajian Yao. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Testing Plausible Upper-mantle Compositions using Fine-scale Models of the 410-km Discontinuity {{< br >}}{{< br >}} Elasticity of Forsterite to 16 GPa and the Composition of the Upper Mantle ([PDF]({{< baseurl >}}/sections/assignments/p_duf_1996_rekhi)) (Courtesy of Sandeep Rekhi. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seismic Evidence for Olivine Phase Changes at the 410- and 660-kilometer Discontinuities ([PDF]({{< baseurl >}}/sections/assignments/lebedev)) (Courtesy of Rosalee Lamm. Used with permission.) {{< br >}}{{< br >}} The Post-spinel Transformation in Mg2SiO4 and its Relation to the 660-km Seismic Discontinuity ([PDF]({{< baseurl >}}/sections/assignments/shim_2001_pres)) (Courtesy of Scott Lundin. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Post-spinel Transition in Mg2SiO4 determined by High P-T in Situ X-ray Diffractometry ([PDF]({{< baseurl >}}/sections/assignments/p_kats_2003_sant)) (Courtesy of Javier Santillan. Used with permission.) {{< br >}}{{< br >}} Effect of Water on the Spinel-postspinel Transformation in Mg2SiO4 ([PDF]({{< baseurl >}}/sections/assignments/p_hig_2001_rekhi)) (Courtesy of Sandeep Rekhi. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Effect of Alumina on Phase Transformations at the 660-kilometer Discontinuity from Fe-Mg Partitioning Experiments {{< br >}}{{< br >}} Seismic Velocity and Density Jumps across the 410- and 660-kilometer Discontinuities ([PDF]({{< baseurl >}}/sections/assignments/p_shea_1999_sant)) (Courtesy of Javier Santillan. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Effects of an Endothermic Phase Transition at 670 km Depth in a Spherical Model of Convection in the Earth's Mantle {{< br >}}{{< br >}} The Interaction of a Subducting Lithospheric Slab with a Chemical or Phase Boundary ([PDF]({{< baseurl >}}/sections/assignments/yao_2)) (Courtesy of Huajian Yao. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seismic Observations of Splitting of the Mid-transition Zone Discontinuity in Earth's Mantle ([PDF]({{< baseurl >}}/sections/assignments/dusswdhouse2001)) (Courtesy of Rosalee Lamm. Used with permission.) {{< br >}}{{< br >}} Tetragonal Structure of CaSiO3 Perovskite above 20 GPa ([PDF]({{< baseurl >}}/sections/assignments/shim_2002_csi_pv)) (Courtesy of Scott Lundin. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Phase Transformations: Implications for Mantle Structure. In Earth's Deep Interior: Mineral Physics and Tomography from the Atomic to the Global Scale ([PDF]({{< baseurl >}}/sections/assignments/weidner)) {{< br >}}{{< br >}} Strength and Elasticity of SiO2 across the Stishovite-CaCl2\-type Structural Phase Boundary ([PDF]({{< baseurl >}}/sections/assignments/yao_3)) (Courtesy of Huajian Yao. Used with permission.) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Post-perovskite Phase Transition and Mineral Chemistry in the Pyrolitic Lowermost Mantle ([PDF]({{< baseurl >}}/sections/assignments/murakami2005)) (Courtesy of Rosalee Lamm. Used with permission.) {{< br >}}{{< br >}} Ferromagnesian Postperovskite Silicates in the D" Layer of the Earth {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Evidence for a Ubiquitous Seismic Discontinuity at the Base of the Mantle ([PDF]({{< baseurl >}}/sections/assignments/sidor_pres_final)) (Courtesy of Scott Lundin. Used with permission.) {{< br >}}{{< br >}} The D" Discontinuity and its Implications {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Effect of Temperature on the Seismic Anisotropy of the Perovskite and Post-perovskite Polymorphs of MgSiO3 ([PDF]({{< baseurl >}}/sections/assignments/stakhouse_et_al)) (Courtesy of Scott Lundin. Used with permission.) {{< br >}}{{< br >}} Electronic Transitions in Perovskite: Possible Nonconvecting Layers in the Lower Mantle ([PDF]({{< baseurl >}}/sections/assignments/p_badr_2004_sant)) (Courtesy of Javier Santillan. Used with permission.) {{< br >}}{{< br >}}
